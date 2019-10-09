@@ -58,11 +58,24 @@ main{
 	.step-box{
 		float: none;
 		margin: 0 auto;
+		width: 100%;
 	}
 	.step-box:nth-child(2){
 		margin: 20px auto;
 	}
 	.step-box:last-child{
  		margin: 0 auto;
-}
+	}
+	.step1-imge{
+		width: 100%;
+		height: 200px;
+	}
+	.step2-imge{
+		width: 100%;
+		height: 200px;
+	}
+	.step3-imge{
+		width: 100%;
+		height: 200px;
+	}
 }
